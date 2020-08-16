@@ -3,3 +3,6 @@ Waiting one minute since LibSVM is a little bit slow
 
 ## To quick see the running result
 Play the demo-video_matlab.mp4
+
+0
+index:  93
