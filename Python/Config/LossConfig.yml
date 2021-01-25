@@ -1,0 +1,37 @@
+-
+ 'Least Squares':
+  - 2
+-
+ 'Smooth Hinge':
+  - 10
+-
+ 'Squared Hinge':
+  - 0
+-
+ 'Truncated SH':
+   - 2
+-
+ 'Truncated LS':
+   - 2
+-
+ 'Smoothed Ramp1':
+   - 2
+-
+ 'Smoothed Ramp2':
+   - 2
+   - 10
+-
+ 'nonconvex exp loss':
+   - 2
+   - 2
+   - 3
+-
+ 'nonconvex exp loss':
+   - 2
+   - 2
+   - 4
+-
+  'nonconvex exp loss':
+   - 2
+   - 3
+   - 4

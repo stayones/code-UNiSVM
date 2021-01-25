@@ -1,0 +1,10 @@
+lambda_:
+  !!float 1e-5
+limit:
+  !!float 1e-3
+ker_para:
+  !!float 20
+subsetSize:
+  1000
+errorBound:
+  !!float 1e-3
