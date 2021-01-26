@@ -1,3 +1,3 @@
-## Model build in DC_factorize.py
+## Demonstration in demoUniSVM.py
 
-Run DC_factorize.py to see the test result for adult data_set
+Run demoUniSVM.py to see the train and test result for adult data_set with several loss functions.
